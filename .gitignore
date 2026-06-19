@@ -1,0 +1,12 @@
+.env
+*.env
+*.png
+*.html
+*.csv
+outputs/
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.sqlite3
+.DS_Store

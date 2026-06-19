@@ -1,0 +1,13 @@
+pandas
+numpy
+matplotlib
+ta
+yfinance
+scikit-learn
+requests
+python-dotenv
+plotly
+seaborn
+statsmodels
+ccxt
+backtrader

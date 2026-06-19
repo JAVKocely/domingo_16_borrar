@@ -1,1 +1,7 @@
 # este es el proyecto que nos va a hacer ricos !
+
+## Instalación
+
+```bash
+pip install -r requirements.txt
+```
